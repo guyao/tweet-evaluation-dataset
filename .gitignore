@@ -106,3 +106,7 @@ ENV/
 # Inbox
 inbox/
 
+.gitignore
+
+# EMTerms
+*.emterms.*
